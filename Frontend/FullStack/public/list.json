@@ -1,0 +1,67 @@
+[
+                {
+                                "id":1,
+                                "name":"I Don't  Love You Anymore",
+                                "title":"Ritvik Singh" ,
+                                "price":"Rs. 247",
+                                "category":"NewRelease",
+                                "image":"images/idont.jpg"
+                },
+                {
+                                "id":2,
+                                "name":"Warmth",
+                                "title":"Ritvik Singh" ,
+                                "price":"Rs. 247",
+                                "category":"NewRelease",
+                                "image":"images/warmth1.jpeg"
+                },
+                {
+                                "id":3,
+                                "name":"A Wonderland of Words",
+                                "title":"Abc" ,
+                                "price":247,
+                                "category":"NewRelease",
+                                "image":"images/wonderland.jpg"
+                },
+                {
+                                "id":4,
+                                "name":"Buy Yourself the Damn Flowers",
+                                "title":"Ritvik Singh" ,
+                                "price":247,
+                                "category":"NewRelease",
+                                "image":"images/buy.jpg"
+                },
+                {
+                                "id":5,
+                                "name":"An Eye For An Eye",
+                                "title":"Ritvik Singh" ,
+                                "price":247,
+                                "category":"NewRelease",
+                                "image":"images/idont.jpg"
+                },
+                {
+                                "id":6,
+                                "name":"I Dont Love You Anymore",
+                                "title":"Ritvik Singh" ,
+                                "price":247,
+                                "category":"NewRelease",
+                                "image":"images/idont.jpg"
+                },
+                {
+                                "id":7,
+                                "name":"I Dont Love You Anymore",
+                                "title":"Ritvik Singh" ,
+                                "price":247,
+                                "category":"NewRelease",
+                                "image":"images/idont.jpg"
+                },
+                {
+                                "id":8,
+                                "name":"I Dont Love You Anymore",
+                                "title":"Ritvik Singh" ,
+                                "price":247,
+                                "category":"NewRelease",
+                                "image":"images/idont.jpg"
+                }
+                
+]

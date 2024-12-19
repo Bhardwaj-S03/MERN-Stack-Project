@@ -1,0 +1,67 @@
+[
+                {
+                                "id":1,
+                                "name":"To Kill a MockingBird",
+                                "title":"Harper Lee" ,
+                                "price":139,
+                                "category":"Fiction",
+                                "image":"images/mocking.jpeg"
+                },
+                {
+                                "id":2,
+                                "name":"Pride and Prejudice",
+                                "title":"Jane Austen, Anna Quindlen" ,
+                                "price":213,
+                                "category":"Fiction",
+                                "image":"images/fic4.jpg"
+                },
+                {
+                                "id":3,
+                                "name":"The Fellowship of Ring",
+                                "title":"J.R.R TolKien" ,
+                                "price":199,
+                                "category":"Fiction",
+                                "image":"images/fic2.jpg"
+                },
+                {
+                                "id":4,
+                                "name":"The Catcher in  Rye",
+                                "title":"J.D Salinger" ,
+                                "price":551,
+                                "category":"Fiction",
+                                "image":"images/fic3.jpg"
+                },
+                 
+                {
+                                "id":5,
+                                "name":"Romeo and Juliet",
+                                "title":"William Shakespeare" ,
+                                "price":124,
+                                "category":"Fiction",
+                                "image":"images/fic5.jpg"
+                } ,
+                {
+                                "id":6,
+                                "name":" Fahrenheit 451",
+                                "title":"Ray Bradbury" ,
+                                "price":675,
+                                "category":"Fiction",
+                                "image":"images/fic7.jpg"
+                },
+                {
+                                "id":7,
+                                "name":"1984",
+                                "title":"George Orwell" ,
+                                "price":105,
+                                "category":"Fiction",
+                                "image":"images/fic8.jpg"
+                },
+                {
+                                "id":8,
+                                "name":"Jane Eyre",
+                                "title":"Ritvik Singh" ,
+                                "price":247,
+                                "category":"Fiction",
+                                "image":"images/fic9.jpg"
+                }
+]

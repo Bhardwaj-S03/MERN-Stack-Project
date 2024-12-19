@@ -1,0 +1,67 @@
+[
+                {
+                                "id":1,
+                                "name":"Inner Engineering",
+                                "title":"Sadhguru" ,
+                                "price":226,
+                                "category":"NonFiction",
+                                "image":"images/mocking.jpeg"
+                },
+                {
+                                "id":2,
+                                "name":"When Breathe Becomes Air",
+                                "title":"Kalanithi,Paul" ,
+                                "price": 467,
+                                "category":"NonFiction",
+                                "image":"images/fic4.jpg"
+                },
+                {
+                                "id":3,
+                                "name":"An Era Of Darkness",
+                                "title":"Shashi Tharoor" ,
+                                "price":670,
+                                "category":"NonFiction",
+                                "image":"images/fic2.jpg"
+                },
+                {
+                                "id":4,
+                                "name":"Hidden Life Of Trees",
+                                "title":"Peter Wohlleben" ,
+                                "price":412,
+                                "category":"NonFiction",
+                                "image":"images/fic3.jpg"
+                },
+                 
+                {
+                                "id":5,
+                                "name":"Indica",
+                                "title":"Pranay Lal" ,
+                                "price":992,
+                                "category":"NonFiction",
+                                "image":"images/fic5.jpg"
+                } ,
+                {
+                                "id":6,
+                                "name":"What Can I Give?",
+                                "title":"Srijan Pal Singh" ,
+                                "price": 266,
+                                "category":"Fiction",
+                                "image":"images/fic7.jpg"
+                },
+                {
+                                "id":7,
+                                "name":"A Feast Of Vultures",
+                                "title":"Josy Joseph" ,
+                                "price":454,
+                                "category":"NonFiction",
+                                "image":"images/fic8.jpg"
+                },
+                {
+                                "id":8,
+                                "name":"Rainbow In The Cloud",
+                                "title":"Maya Angelou" ,
+                                "price":327,
+                                "category":"NonFiction",
+                                "image":"images/fic9.jpg"
+                }
+]

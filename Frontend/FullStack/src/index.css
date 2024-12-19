@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'poppins','sans-serif';
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: rgb(242, 243, 234);
+}
+.navbar{
+    position: fixed;
+    top:0;
+    left:0;
+    background-color: white;
+    opacity:0.9;
+    z-index: 11;
+}
+.firstsecbtn:hover{
+    background-color: orange;
+    transition: 0.5s;
+}
+.spanwhitetext{
+    font-family: "Spicy Rice", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+.treeimage{
+    height:70vh;
+    /* width:100%; */
+}
+.cardsimage img {
+    height: 200px; /* Set your desired height */
+    object-fit: cover; /* This will maintain the aspect ratio while covering the area */
+    width: 100%; /* Make sure the image takes the full width of the card */
+}
+
+
+
+@media (min-width: 320px) {
+    .para{
+        position: absolute;
+        top:11rem;
+        left:3rem;
+        font-size:10px;
+    }
+    .welcome{
+        position: absolute;
+        top:5rem;
+        left:3rem;
+    }
+    .bookvideo{
+        margin-top:4rem;
+    }
+    .firstsecbtn{
+        position: absolute;
+        top: 14rem;
+        left:8rem;
+        border:1px solid black;
+        padding:2px;
+        font-size: 8px;
+        border-radius: 5px;  
+    } 
+    .discounttext{
+        position: absolute;
+        top:160rem;
+        box-sizing: border-box;
+        left: 1rem;
+    }
+    .discounttext1{
+        /* position: absolute; */
+        font-size: 18px;
+        font-weight: bolder;
+        color: #ffffff;
+    }
+    .discounttext2{
+        font-size: 10px;
+    }
+    .card-title{
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 768px) {
+    .para{
+        position: absolute;
+        top:22rem;
+        left:3rem;
+        font-size:15px;
+    }
+    .welcome{
+        position: absolute;
+        top:5rem;
+        left:3rem;
+    }
+    
+    .firstsecbtn{
+        position: absolute;
+        top: 27rem;
+        left:20rem;
+        border:1px solid black;
+        padding:12px;
+        font-size: 15px;
+        border-radius: 5px;  
+    } 
+     .discounttext{
+        position: absolute;
+        top:165rem;
+        box-sizing: border-box;
+        left: 8rem;
+    }
+    .discounttext1{
+        /* position: absolute; */
+        font-size: 35px;
+        font-weight: bolder;
+        color: #ffffff;
+    }
+    .discounttext2{
+        font-size: 10px;
+    }
+    .card-title{
+        font-size: 16px;
+    }
+    
+}
+
+
+@media (min-width: 1024px) {
+    .welcome{
+        position: absolute;
+        top:5rem;
+        left: 2rem;
+    }
+    .para{
+        position: absolute;
+        top:25rem;
+        left:3rem;
+    }
+    .bookvideo{
+        margin-top:0rem;
+    }
+    .firstsecbtn{
+        position: absolute;
+        top: 32rem;
+        left:27rem;
+        border:1px solid black;
+        padding:12px;
+        font-size: 15px;
+        border-radius: 5px;  
+    }
+    .discounttext{
+        position: absolute;
+        top:160rem;
+        left: 15rem;
+    }
+    .discounttext1{
+        /* position: absolute; */
+        font-size: 45px;
+        font-weight: bolder;
+        color: #ffffff;
+    }
+    .discounttext2{
+        font-size: 18px;
+    }
+    .card-title{
+        font-size: 16px;
+    }
+    
+}
+@media (min-width: 1440px) {
+    .welcome{
+        position: absolute;
+        top:13rem;
+        left: 13rem;
+        padding:20px
+    }
+    .para{
+        position: absolute;
+        top:35rem;
+        left:15rem;
+    }
+    .bookvideo{
+        margin-top:0rem;
+    }
+    .firstsecbtn{
+        position: absolute;
+        top: 40rem;
+        left:40rem;
+        border:1px solid black;
+        padding:12px;
+        font-size: 20px;
+        border-radius: 5px;
+        
+    }
+}
+
